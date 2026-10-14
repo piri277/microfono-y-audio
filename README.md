@@ -11,8 +11,8 @@ El proyecto implementa el manejo de permisos en **Android, iOS y Web**, incluyen
 | Nombre                        | Rol en el proyecto                             |
 
 -| Jaider Enrique Monrroy Diaz   | Explicación del tema, paquetes y documentación |.
--| Juan Sebastian Tovas Mosquera | Configuración de permisos Android, iOS y Web   |.
--| David Rojas Morales           | Implementación, pruebas y demostración         |.
+-| Juan Sebastian Tovas Mosquera | Implementación, pruebas y demostración   |.
+-| David Rojas Morales           |  Configuración de permisos Android, iOS y Web        |.
 
 **Grupo:** grupo 04
 **Fecha:** 12 de Octubre de 2026
